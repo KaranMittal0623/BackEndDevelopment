@@ -1,0 +1,15 @@
+{
+  "name": "lec-3continue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@karan0623/newpackage": "^1.0.1"
+  }
+}

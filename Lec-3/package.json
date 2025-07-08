@@ -1,0 +1,17 @@
+{
+  "name":"@karan0623/newpackage",
+  "version": "1.0.1",
+  "description": "\"this package do nothing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "hbs": "^4.2.0"
+  }
+}
