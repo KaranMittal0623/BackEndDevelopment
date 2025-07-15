@@ -1,0 +1,3 @@
+10 marks
+
+1. Write data into file demo.txt,data will be passes using terminal 
